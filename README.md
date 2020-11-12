@@ -1,16 +1,18 @@
-# wayfinder
+# WayFinder
 
-A simple bicycle rider's guide app.
+A simple and light bicycle rider guide app.
 
-## Getting Started
+Riding bicycle with friends is fun. It is also good for your cardio and an exercise for your body.
 
-This project is a starting point for a Flutter application.
+# Key Features
 
-A few resources to get you started if this is your first Flutter project:
+- Track your location real time using Firebase Firestore
+- Create a party, in where you can see your friends inside that party in your google map.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Packages used
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(Note that all this packages are available to use for free)
+
+- Google Map Flutter
+- Firebase packages (firebase core, firebase_auth, cloud_firestore)
+- Google Sign In
