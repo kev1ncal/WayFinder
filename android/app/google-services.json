@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "843228417598",
+    "firebase_url": "https://wayfinder-3b194.firebaseio.com",
+    "project_id": "wayfinder-3b194",
+    "storage_bucket": "wayfinder-3b194.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843228417598:android:41cf24cee7cfb683a0cb6f",
+        "android_client_info": {
+          "package_name": "com.astaire.wayfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843228417598-bvqtajdnu96a5fnnm1c9pb60hlpjrncd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.astaire.wayfinder",
+            "certificate_hash": "298d265ea9bdea075b63ba6fb8acb010930fd78b"
+          }
+        },
+        {
+          "client_id": "843228417598-foskvjnnpq14pogddmaajsno917pofog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxh7Y9YddwFTjGW-dTopY3TVIO1uptvUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843228417598-foskvjnnpq14pogddmaajsno917pofog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
