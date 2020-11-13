@@ -1,6 +1,6 @@
 import 'package:geolocator/geolocator.dart';
 
-class Location {
+class UserLocation {
   double latitude;
   double longtitude;
 

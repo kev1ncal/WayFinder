@@ -18,7 +18,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
   }
 
   void getLocation() async {
-    Location loc = Location();
+    UserLocation loc = UserLocation();
     await loc.getCurrentLocation();
 
     Navigator.push(context, MaterialPageRoute(builder: (context) {
