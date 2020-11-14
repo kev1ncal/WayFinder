@@ -1,3 +1,7 @@
+# This is a concept and design for the app ONLY. It is integrated with Firebase, though. But the main functionality of tracking your friends with you is under development.
+
+<hr>
+
 # WayFinder
 
 A simple and light bicycle rider guide app.
